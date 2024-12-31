@@ -1,6 +1,6 @@
-###Live Working Site as well.
+### Live Working Site as well.
+[QuantumCore](https://quantum-core-fawn.vercel.app)
 
-quantum-core-fawn.vercel.app(https://quantum-core-fawn.vercel.app)
 
 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
